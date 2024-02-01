@@ -1,3 +1,4 @@
 {
+    "name": "Node 20 standard configuration",
     "image": "mcr.microsoft.com/devcontainers/javascript-node:20"
 }

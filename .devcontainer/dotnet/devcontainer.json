@@ -1,5 +1,6 @@
 {
-    "image": "mcr.microsoft.com/devcontainers/dotnet",
+    "name": ".NET 8 standard configuration",
+    "image": "mcr.microsoft.com/devcontainers/dotnet:8.0",
     "customizations": {
         "vscode": {
             "extensions": [
